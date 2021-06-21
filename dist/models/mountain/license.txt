@@ -1,0 +1,11 @@
+Model Information:
+* title:	Grassfields
+* source:	https://sketchfab.com/3d-models/grassfields-3e45930c4bda474dafa4f58ed3b4e4ad
+* author:	aqsa_g (https://sketchfab.com/aqsa_g)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Grassfields" (https://sketchfab.com/3d-models/grassfields-3e45930c4bda474dafa4f58ed3b4e4ad) by aqsa_g (https://sketchfab.com/aqsa_g) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
